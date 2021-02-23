@@ -6,7 +6,7 @@ Homework Week 1 Notes
 3. Conclusions.docx file includes the answers to conclusion questions.
 
 # Technical Skills Required to Complete This Challenge
-1. Good excel skills
-2. Ability to read and interpret tables & charts
-3. Ability to make inferences based on data
-4. Ability to make conclusions based on data
+1. Good excel skills.
+2. Ability to read and interpret tables & charts.
+3. Ability to make inferences based on data.
+4. Ability to make conclusions based on data.
